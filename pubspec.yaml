@@ -1,0 +1,13 @@
+name: rng
+description: A library to generate very large random numbers (BigInt). Includes various generation techniques and sources of randomness for easy customization.
+version: 1.0.0
+repository: https://github.com/0xdir/rng_dart
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
